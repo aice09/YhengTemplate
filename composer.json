@@ -1,0 +1,12 @@
+{
+    "name": "nieva/dtss-row-reorder-php",
+    "require": {
+        "vlucas/phpdotenv": "^5.3"
+    },
+    "authors": [
+        {
+            "name": "Carl Angelo Nievarez",
+            "email": "carlangelopamparonievarez@gmail.com"
+        }
+    ]
+}
