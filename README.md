@@ -1,6 +1,6 @@
-# Data Table Row Reorder
+# My System Template
 
-PHP Data Table Server Side Row Reorder
+System template
 
 ## To Get Started
 
@@ -15,9 +15,7 @@ PHP Data Table Server Side Row Reorder
      npm audit fix
      ```
 
-2. Create **fileshere** folder inside your master folder
-
-3. Run Gulp to get compile Javascript, Sass, images, and dump files.
+2. Run Gulp to get compile Javascript, Sass, images, and dump files.
 
    - Build to compile all stuffs
 
@@ -42,7 +40,7 @@ PHP Data Table Server Side Row Reorder
      gulp clean
      ```
 
-4. Install PHP packages using composer.
+3. Install PHP packages using composer.
 
    - Build to compile all stuffs
 
@@ -50,5 +48,5 @@ PHP Data Table Server Side Row Reorder
      composer install
      ```
 
-5. Rename .env.example to .env and provide your database and database credentials
-6. For more info please contact me, find the following contact information inside html files of each pages.
+4. Rename .env.example to .env and provide your database and database credentials
+5. For more info please contact me, find the following contact information inside html files of each pages.
